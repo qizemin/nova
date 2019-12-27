@@ -63,11 +63,20 @@
 ._文本段落 {
   text-align:left;
 }
+.text_field {
+  font-size:36px;
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 .list_box {
   color:#000000;
   text-align:left;
 }
-.tree_node {
+.radio_button {
   text-align:left;
 }
 ._自由编辑 {

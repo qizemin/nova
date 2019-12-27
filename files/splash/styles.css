@@ -60,6 +60,9 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-family:'Nu Regular', 'Nu';
+  font-weight:400;
+  font-style:normal;
   font-size:72px;
 }
 #u2 {
@@ -68,12 +71,15 @@
   top:496px;
   width:870px;
   height:141px;
+  font-family:'Nu Regular', 'Nu';
+  font-weight:400;
+  font-style:normal;
   font-size:72px;
 }
 #u3 {
   position:absolute;
   left:2px;
-  top:29px;
+  top:28px;
   width:866px;
   word-wrap:break-word;
 }
